@@ -69,12 +69,16 @@ ul li {
   text-align: center;
   position: relative;
 }
+ul li:hover {
+  background-color: hsl(75, 94%, 57%);
+  color: hsl(0, 0%, 0%);
+}
 ul li a {
   color: hsl(0, 0%, 100%);
 }
 ul li a:hover {
-  color: hsl(75, 94%, 57%);
   border-bottom: 1px solid white;
+  color: hsl(0, 0%, 0%);
 }
 /* For the attribution on the footer */
 .attribution {
