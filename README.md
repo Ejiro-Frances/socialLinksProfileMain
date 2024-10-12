@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Ejiro-Frances/socialLinksProfileMain.git]
-- Live Site URL: [https://ejiro-frances.github.io/socialLinksProfileMain/]
+- Live Site URL: [https://social-links-profile-main-one-iota.vercel.app/]
 
 ## My process
 
